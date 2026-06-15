@@ -10,3 +10,8 @@ Purpose: Unknown.
 Audience: Unknown.
 Format: Unknown.
 Expected Results: Unknown.
+InfoClub event knowledge for presentation generation.
+
+## Events
+
+Document InfoClub events here as structured presentation context.

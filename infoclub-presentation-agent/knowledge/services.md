@@ -1,11 +1,7 @@
 # Services
 
-This file defines InfoClub services used in generated presentations.
-Only include services that are verified by approved InfoClub source material.
+InfoClub service knowledge for presentation generation.
 
-## Service Entry Template
+## Services
 
-Service: Unknown.
-Description: Unknown.
-Target Audience: Unknown.
-Expected Outcome: Unknown.
+Document InfoClub services here as structured presentation context.
